@@ -6,6 +6,10 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="ex002" />
+    <orderEntry type="module" module-name="ex004" />
+    <orderEntry type="module" module-name="ex005" />
+    <orderEntry type="module" module-name="ex003" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />

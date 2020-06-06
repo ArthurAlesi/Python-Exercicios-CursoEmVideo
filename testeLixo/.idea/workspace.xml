@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a62fbb86-14a5-4010-9bfe-676702e05f7c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ex002/.idea/ex002.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex002/ex002.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex004/.idea/ex004.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex004/ex004.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex005/.idea/ex005.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex005/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex005/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex005/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex005/ex005.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex001/.idea/ex001.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../ex001/.idea/ex001.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex001/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ex001/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex001/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ex001/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1cxk4gIrgiQmsGhGMNyLaGiEIZl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a62fbb86-14a5-4010-9bfe-676702e05f7c" name="Default Changelist" comment="" />
+      <created>1591477441766</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591477441766</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
