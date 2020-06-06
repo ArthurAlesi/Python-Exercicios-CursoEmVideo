@@ -1,4 +1,4 @@
-#!C:\Users\User\Documents\github-MeusRepositórios\Python-Exercicios-CursoEmVideo\testeLixo\venv\Scripts\python.exe -x
+#!C:\Users\User\Documents\github-MeusRepositórios\Python-Exercicios-CursoEmVideo\ex006\venv\Scripts\python.exe -x
 # EASY-INSTALL-ENTRY-SCRIPT: 'pip==19.0.3','console_scripts','pip'
 __requires__ = 'pip==19.0.3'
 import re

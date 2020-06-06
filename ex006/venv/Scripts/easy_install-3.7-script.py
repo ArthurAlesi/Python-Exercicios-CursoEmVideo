@@ -1,4 +1,4 @@
-#!C:\Users\User\Documents\github-MeusRepositórios\Python-Exercicios-CursoEmVideo\testeLixo\venv\Scripts\python.exe -x
+#!C:\Users\User\Documents\github-MeusRepositórios\Python-Exercicios-CursoEmVideo\ex006\venv\Scripts\python.exe -x
 # EASY-INSTALL-ENTRY-SCRIPT: 'setuptools==40.8.0','console_scripts','easy_install-3.7'
 __requires__ = 'setuptools==40.8.0'
 import re
