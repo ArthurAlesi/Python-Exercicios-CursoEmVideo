@@ -57,6 +57,11 @@
     <orderEntry type="module" module-name="ex043" />
     <orderEntry type="module" module-name="ex044" />
     <orderEntry type="module" module-name="ex045" />
+    <orderEntry type="module" module-name="ex046" />
+    <orderEntry type="module" module-name="ex047" />
+    <orderEntry type="module" module-name="ex048" />
+    <orderEntry type="module" module-name="ex049" />
+    <orderEntry type="module" module-name="ex050" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />
