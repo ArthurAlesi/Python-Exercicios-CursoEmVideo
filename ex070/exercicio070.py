@@ -5,3 +5,4 @@ mostre o total gasto na compra
 quantos produtos custam mais de 1000
 qual o nome do produto mais barato
 '''
+
