@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="20111fe2-6cc1-4d1f-98a1-f13a3c9c1c70" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ex072/exercicio072.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ex072/exercicio072.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex073/exercicio073.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ex073/exercicio073.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,28 +46,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.exercicio072">
-    <configuration name="exercicio068" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="ex068" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../ex068" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../ex068/exercicio068.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.exercicio073">
     <configuration name="exercicio069" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ex069" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -152,13 +131,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="exercicio073" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ex073" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../ex073" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../ex073/exercicio073.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.exercicio073" />
         <item itemvalue="Python.exercicio072" />
         <item itemvalue="Python.exercicio071" />
         <item itemvalue="Python.exercicio070" />
         <item itemvalue="Python.exercicio069" />
-        <item itemvalue="Python.exercicio068" />
       </list>
     </recent_temporary>
   </component>
