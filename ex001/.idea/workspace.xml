@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20111fe2-6cc1-4d1f-98a1-f13a3c9c1c70" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../aulas/.idea/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ex075/exercicio075.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ex075/exercicio075.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,7 +32,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="ignore.virus.scanning.warn.message" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ex003" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../programacao-interface-grafica-PIG" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
